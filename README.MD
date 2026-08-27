@@ -1,7 +1,7 @@
 ```markdown
 # _TrueLibre_
 
-- Geek & GNU true lover & sysAdmin & enthusiast ;3
+- Geek & enthusiast ;3
 - ru-RU / en-EN / ua-UA / pl-PL
 
 ## 🐧 My favorite Linux distros
